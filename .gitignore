@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.cloud-attachments/
+.freebuff/
+christmas-list-*.png
